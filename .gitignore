@@ -1,0 +1,13 @@
+# Environment dan rahasia
+.env
+.env.*
+!.env.example
+
+# Dependensi dan hasil build
+node_modules/
+dist/
+build/
+
+# File sistem
+.DS_Store
+Thumbs.db
